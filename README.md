@@ -18,7 +18,7 @@ This is A nest.js backend RESTful api for Orders.
 ## 1. Clone Project into your local machine
 
 ```
-git clone https://github.com/nelsoniseru/mypro.git
+git clone git@github.com:nelsoniseru/technical-challenge.git
 ```
 
 ## 2. Go into authService folder and install project dependencies.
