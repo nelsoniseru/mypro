@@ -33,8 +33,6 @@ cd orderService && yarn install
 
 ### Add this key to your env file for both folders:
 
-Please make sure mongoDB Server service is installed and running on your localhost:27017.
-if your are using docker you can simply use the first url, otherwise use the second url
 ```
 
 DATABASE_URL=postgresql://postgres:123456@localhost:5432/dbname?schema=public
