@@ -1,4 +1,3 @@
-# Adidas-Restful-Newsletter-Subscription-API
 
 This is A nest.js backend RESTful api for Orders.
 
@@ -57,6 +56,9 @@ npx prisma migrate dev --name init
 ```
 yarn start:dev
 ```
+
+
+
 
 > #### You can get the link to postman, please click [here](https://documenter.getpostman.com/view/33482444/2sA35Baims) 
 
